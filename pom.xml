@@ -81,7 +81,7 @@
 						<goals>
 							<goal>integration-test</goal>
 							<goal>verify</goal>
-						</goals>g
+						</goals>
 					</execution>
 				</executions>
 			</plugin>
